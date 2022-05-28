@@ -31,9 +31,7 @@ Feel free to open a new branch from it and write any code suggestion and create 
 *B) Managing paralel changes*
 
 There's a new PR with a new functionality called `print info for https://www.mapcustomizer.com/.
-I'd like you to review it, test it and merge it if it's ok.
-
-After that, update the `calculate_optimal_route` branch and it's PR.
-When you finish just approve that PR.
+I'd like you to review it and test it before merging it in the main code.
+If it works, approve both PRs and merge them into the main branch.
 
 Note: in order to access your repository make me a collaborator (alfredo.roca@kantox.com)

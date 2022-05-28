@@ -113,6 +113,53 @@ And prints it on screen.
     Lusaka
     Reykjavík
 
+Alternatively, with parameter `-map` prints the following list to be entered in https://mapcustomizer.com
+
+    Generating graph...
+    Calculating shortest path tree from Beijing...
+    ================================================================================
+    List of pins for mapcustomizer.com -> create a new map and bulk entry the following list
+    ================================================================================
+    39.93, 116.4 {Beijing}
+    43.8, 131.54 {Vladivostok}
+    35.4, 139.45 {Tokyo}
+    13.45, 100.3 {Bangkok}
+    1.14, 103.55 {Singapore}
+    -31.57, 115.52 {Perth}
+    -37.47, 144.58 {Melbourne}
+    -36.52, 174.45 {Auckland}
+    37.47, -122.26 {San Francisco}
+    49.16, -123.07 {Vancouver}
+    61.17, -150.02 {Anchorage}
+    43.4, -79.24 {Toronto}
+    40.47, -73.58 {New York}
+    10.28, -67.2 {Caracas}
+    9.55, -84.02 {San Jose}
+    19.26, -99.7 {Mexico City}
+    -12.0, -77.2 {Lima}
+    -22.57, -43.12 {Rio}
+    -12.56, -38.27 {Santiago}
+    14.4, -17.28 {Dakar}
+    5.35, -0.06 {Accra}
+    33.35, -7.39 {Casablanca}
+    48.86, 2.34 {Paris}
+    51.32, -0.5 {London}
+    50.5, 14.26 {Prague}
+    55.45, 37.36 {Moscow}
+    51.1, 71.3 {Astana}
+    28.6, 77.22 {New Delhi}
+    31.78, 35.22 {Jerusalem}
+    30.2, 31.21 {Cairo}
+    -15.25, 28.16 {Lusaka}
+    64.4, -21.58 {Reykjavík}
+    ================================================================================
+    Total distance: 91870633
+    ================================================================================
+
+**Visualizing data on a map**
+
+Visit [Map Customizer](https://www.mapcustomizer.com/), create a new map and bulk entry the printed list to pin point cities in visiting order.
+
 **Testing**
 
 ```

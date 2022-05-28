@@ -35,6 +35,7 @@ I'd like you to review it and test it before merging it in the main code.
 If it works, approve both PRs and merge them into the main branch.
 
 Note: in order to access your repository make me a collaborator (alfredo.roca@kantox.com)
+
 **Input file specifications**
 
 The input file will contain a listing of cities and coordinates in a tab-delimited file. The filename is named exactly `cities.txt` is located on the same directory where the script is executed. There are no additional spaces or lines at the begging or end of the file.
